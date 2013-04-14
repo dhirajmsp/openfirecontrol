@@ -1,5 +1,5 @@
 <?php
-// This page is for functionality testing
+// This page is for functionality testing.
 ?>
 <html>
   <head>
